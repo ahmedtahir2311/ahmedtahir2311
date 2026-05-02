@@ -69,21 +69,6 @@
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmedtahir2311&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=f0c040&text_color=c9d1d9&border_color=21262D&border_radius=16&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtahir2311&layout=donut&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=21262D&border_radius=16&langs_count=8&hide=html,css,scss" height="200"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <!-- Streak — new card style -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedtahir2311&theme=github-dark-blue&background=0D1117&border=21262D&ring=1F6FEB&fire=f0c040&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=c9d1d9&currStreakNum=ffffff&border_radius=16&card_width=700&hide_total_contributions=false" height="195" width="700"/>
@@ -96,11 +81,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedtahir2311&theme=github_dark" width="95%" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedtahir2311&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedtahir2311&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedtahir2311&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedtahir2311&theme=github_dark&utcOffset=5" height="160"/>
 </div>
 
 <br/>
@@ -117,24 +103,11 @@
 
 <br/>
 
----
-
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedtahir2311&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
-</div>
-
-<br/>
-
----
-
 <!-- ═══════════════════════════ FULL STACK ═══════════════════════════ -->
+---
 
 ## 🛠 Full Stack
-
+<br/>
 <div align="center">
 
 **◈ Languages**
@@ -218,6 +191,14 @@
 
 </div>
 
+---
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+
+## 🏆 Trophies
 <br/>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedtahir2311&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
+</div>
+
+
