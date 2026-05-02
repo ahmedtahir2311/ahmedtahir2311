@@ -1,9 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:0f1923,60:0d2137,100:0D1117&height=220&section=header&text=AHMED%20TAHIR&fontSize=72&fontColor=58A6FF&fontAlignY=50&stroke=1F6FEB&strokeWidth=2&desc=Full%20Stack%20Engineer%20%E2%80%94%20AI%20%26%20Systems%20Builder&descSize=17&descAlignY=70&descFontColor=8B949E&animation=fadeIn" width="100%"/>
-
+<picture>
+  <img src="https://raw.githubusercontent.com/ahmedtahir2311/ahmedtahir2311/main/header.svg" width="100%" alt="Ahmed Tahir — Full Stack Engineer"/>
+</picture>
 </div>
+<!-- ═══════════════════════════ ANIMATED TITLE BADGE ═══════════════════════════ --
 
 <!-- ═══════════════════════════ ANIMATED TITLE BADGE ═══════════════════════════ -->
 <div align="center">
