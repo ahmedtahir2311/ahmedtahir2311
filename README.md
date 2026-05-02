@@ -24,7 +24,6 @@
 </div>
 
 <br/>
-
 ---
 
 <!-- ═══════════════════════════ TERMINAL BLOCK ═══════════════════════════ -->
@@ -38,8 +37,8 @@
 ║                                                                      ║
 ║  export const ahmed = {                                              ║
 ║    role       :  "Full Stack Engineer",                              ║
-║    experience :  "5+ years · production systems · B2B SaaS",        ║
-║    location   :  "Pakistan 🇵🇰  →  Building Globally",               ║
+║    experience :  "5+ years · production systems · B2B SaaS",         ║
+║    location   :  "Pakistan 🇵🇰  →  Building Globally",                 ║
 ║                                                                      ║
 ║    languages  :  ["TypeScript","JavaScript","Python","SQL","Bash"],  ║
 ║    frontend   :  ["Next.js","React","Tailwind CSS","Framer Motion"], ║
@@ -52,7 +51,7 @@
 ║    tooling    :  ["pnpm","Zod","Vitest","Playwright","React Query"], ║
 ║    patterns   :  ["Atomic Design","Feature-based","Event-driven"],   ║
 ║                                                                      ║
-║    currentFocus: "AI-powered SaaS · Scale · Automation",            ║
+║    currentFocus: "AI-powered SaaS · Scale · Automation",             ║
 ║  } satisfies Developer;                                              ║
 ║                                                                      ║
 ║  $ _                                                                 ║
@@ -229,7 +228,5 @@
      Writing production code. Shipping real products. Always.
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d1f3c,100:1F6FEB&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
