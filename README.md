@@ -1,10 +1,11 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
+
 <picture>
   <img src="https://raw.githubusercontent.com/ahmedtahir2311/ahmedtahir2311/main/header.svg" width="100%" alt="Ahmed Tahir — Full Stack Engineer"/>
 </picture>
+
 </div>
-<!-- ═══════════════════════════ ANIMATED TITLE BADGE ═══════════════════════════ --
 
 <!-- ═══════════════════════════ ANIMATED TITLE BADGE ═══════════════════════════ -->
 <div align="center">
@@ -25,6 +26,7 @@
 </div>
 
 <br/>
+
 ---
 
 <!-- ═══════════════════════════ TERMINAL BLOCK ═══════════════════════════ -->
@@ -38,8 +40,8 @@
 ║                                                                      ║
 ║  export const ahmed = {                                              ║
 ║    role       :  "Full Stack Engineer",                              ║
-║    experience :  "5+ years · production systems · B2B SaaS",         ║
-║    location   :  "Pakistan 🇵🇰  →  Building Globally",                 ║
+║    experience :  "5+ years · production systems · B2B SaaS",        ║
+║    location   :  "Pakistan 🇵🇰  →  Building Globally",               ║
 ║                                                                      ║
 ║    languages  :  ["TypeScript","JavaScript","Python","SQL","Bash"],  ║
 ║    frontend   :  ["Next.js","React","Tailwind CSS","Framer Motion"], ║
@@ -52,7 +54,7 @@
 ║    tooling    :  ["pnpm","Zod","Vitest","Playwright","React Query"], ║
 ║    patterns   :  ["Atomic Design","Feature-based","Event-driven"],   ║
 ║                                                                      ║
-║    currentFocus: "AI-powered SaaS · Scale · Automation",             ║
+║    currentFocus: "AI-powered SaaS · Scale · Automation",            ║
 ║  } satisfies Developer;                                              ║
 ║                                                                      ║
 ║  $ _                                                                 ║
@@ -229,5 +231,4 @@
      Writing production code. Shipping real products. Always.
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
-
 </div>
