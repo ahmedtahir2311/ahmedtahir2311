@@ -2,7 +2,7 @@
 <div align="center">
 
 <picture>
-    <img src="https://raw.githubusercontent.com/ahmedtahir2311/ahmedtahir2311/main/header.svg" width="100%" alt="Ahmed Tahir — Full Stack Engineer"/>
+    <img src="https://raw.githubusercontent.com/ahmedtahir2311/ahmedtahir2311/main/header2.svg" width="100%" alt="Ahmed Tahir — Full Stack Engineer"/>
 </picture>
 
 </div>
