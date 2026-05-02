@@ -1,38 +1,6 @@
 <svg width="100%" viewBox="0 0 680 260" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>Muhammad Ahmed Tahir — Full Stack Engineer</title>
   <desc>Redesigned 3D cinematic header for Muhammad Ahmed Tahir</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#060a10"/>
-      <stop offset="40%"  stop-color="#0a1628"/>
-      <stop offset="100%" stop-color="#060a10"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#ffffff"/>
-      <stop offset="35%"  stop-color="#a8d0ff"/>
-      <stop offset="75%"  stop-color="#3b8ef5"/>
-      <stop offset="100%" stop-color="#1458c8"/>
-    </linearGradient>
-    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
-      <stop offset="30%"  stop-color="#58A6FF" stop-opacity="1"/>
-      <stop offset="70%"  stop-color="#58A6FF" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="topLine" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="#58A6FF" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="scanLine" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="#1F6FEB" stop-opacity="0.07"/>
-      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="mainClip">
-      <rect width="680" height="260"/>
-    </clipPath>
-  </defs>
   <g clip-path="url(#mainClip)">
     <rect width="680" height="260" fill="url(#bg)"/>
     <g fill="#1F6FEB" opacity="0.07">
@@ -82,14 +50,6 @@
     <rect x="90" y="172" width="500" height="0.75" fill="url(#accentLine)" rx="1"/>
     <polygon points="340,168 344,172 340,176 336,172" fill="#1F6FEB" opacity="0.7"/>
     <!-- Subtitle -->
-    <text x="340" y="198" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="12.5" fill="#8B949E" letter-spacing="3.5">FULL STACK ENGINEER  ·  AI &amp; SYSTEMS BUILDER</text>
-    <!-- Tag pills -->
-    <rect x="172" y="210" width="90" height="20" rx="10" fill="none" stroke="#1F6FEB" stroke-width="0.75" opacity="0.55"/>
-    <text x="217" y="224" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#58A6FF" letter-spacing="1.5">NEXT.JS</text>
-    <rect x="272" y="210" width="90" height="20" rx="10" fill="none" stroke="#1F6FEB" stroke-width="0.75" opacity="0.55"/>
-    <text x="317" y="224" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#58A6FF" letter-spacing="1.5">TYPESCRIPT</text>
-    <rect x="372" y="210" width="90" height="20" rx="10" fill="none" stroke="#1F6FEB" stroke-width="0.75" opacity="0.55"/>
-    <text x="417" y="224" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#58A6FF" letter-spacing="1.5">REACT NATIVE</text>
-    <rect x="0" y="259" width="680" height="1" fill="url(#topLine)"/>
+    <text x="340" y="198" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="12.5" fill="#8B949E" letter-spacing="3.5">FULL STACK ENGINEER  ·  AI &amp; SYSTEMS BUILDER</text>   
   </g>
 </svg>
