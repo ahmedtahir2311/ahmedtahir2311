@@ -2,7 +2,7 @@
 <div align="center">
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ahmedtahir2311/ahmedtahir2311/main/header.svg" width="100%" alt="Ahmed Tahir — Full Stack Engineer"/>
+    <img src="https://raw.githubusercontent.com/ahmedtahir2311/ahmedtahir2311/main/header.svg" width="100%" alt="Ahmed Tahir — Full Stack Engineer"/>
 </picture>
 
 </div>
@@ -221,17 +221,3 @@
 <br/>
 
 ---
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-     Writing production code. Shipping real products. Always.
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d1f3c,100:1F6FEB&height=110&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
