@@ -231,4 +231,7 @@
      Writing production code. Shipping real products. Always.
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d1f3c,100:1F6FEB&height=110&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
